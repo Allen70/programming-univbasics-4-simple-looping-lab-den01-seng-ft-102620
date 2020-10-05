@@ -31,4 +31,5 @@ newarray << array[counter].to_s
 
 counter += 1 
 end
+newarray
 end
